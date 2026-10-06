@@ -1,14 +1,11 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Zenith&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%C2%B7%20Game%20Dev%20%C2%B7%20Backend%20%C2%B7%20Cybersecurity&descSize=16&descAlignY=60" alt="Zenith banner" />
+<img src="assets/matrix-banner.svg" alt="Zenith, Computer Science Student" width="100%" />
 
-![Status](https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING%20%26%20BUILDING-2ea043?style=for-the-badge)
-
-![Student](https://img.shields.io/badge/COMPUTER%20SCIENCE-STUDENT-1f6feb?style=flat-square)
-![Game Dev](https://img.shields.io/badge/EXPLORING-GAME%20DEV-8957e5?style=flat-square)
-![Backend](https://img.shields.io/badge/EXPLORING-BACKEND-0e8a9f?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/LEARNING-CYBERSECURITY-d29922?style=flat-square)
+![Computer Science](https://img.shields.io/badge/COMPUTER%20SCIENCE-STUDENT-00ff41?style=flat-square&labelColor=000000)
+![Game Dev](https://img.shields.io/badge/EXPLORING-GAME%20DEV-00ff41?style=flat-square&labelColor=000000)
+![Backend](https://img.shields.io/badge/EXPLORING-BACKEND-00ff41?style=flat-square&labelColor=000000)
+![Cybersecurity](https://img.shields.io/badge/LEARNING-CYBERSECURITY-00ff41?style=flat-square&labelColor=000000)
 
 </div>
 
@@ -16,12 +13,10 @@
 
 ## 👋 About Me
 
-I'm **Zenith**, a Computer Science student who enjoys turning ideas into working projects, especially games, websites, and the backend systems behind them. I'm currently looking for guidance on **game development** and **backend engineering**, and I'm building my foundation in **databases** and **cybersecurity** along the way.
-
-Outside of code, you'll usually find me in the gym or playing video games.
+I'm **Zenith**, a Computer Science student who likes turning ideas into working projects, especially games, websites, and the backend systems behind them. I'm looking for guidance on **game development** and **backend engineering**, and I'm building my foundation in **databases** and **cybersecurity** along the way.
 
 - 🔭 Working on games, websites, and bits of random things
-- 🌱 Currently learning databases and secure development
+- 🌱 Currently learning databases
 - 🤝 Looking for guidance on game development and backend
 - 💬 Ask me about video games
 - ⚡ Fun fact: I like the gym
@@ -37,16 +32,6 @@ Outside of code, you'll usually find me in the gym or playing video games.
 | 🗄️ Databases | Designing schemas and writing queries with MySQL and SQLite |
 | 🔐 Cybersecurity | Learning security fundamentals and writing safer code |
 | 🧩 Generalist development | Picking up new tools whenever a project needs them |
-
----
-
-## 🛠️ Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **WasteWise** | Waste collection scheduling system built for a data structures course | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Your game project** | One-line description | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) |
-| **Your website project** | One-line description | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
 ---
 
@@ -79,8 +64,8 @@ Outside of code, you'll usually find me in the gym or playing video games.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nzjealousy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzjealousy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nzjealousy&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9dffb5&icon_color=00ff41" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzjealousy&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9dffb5" alt="Top languages" />
 </p>
 
 ---
