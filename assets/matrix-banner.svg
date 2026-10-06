@@ -9,7 +9,7 @@
 <text x="48" y="152" fill="#ffffff" font-size="68" font-weight="bold">Zenith</text>
 <text x="48" y="192" fill="#9dffb5" font-size="18">Game Dev · Backend · Databases · Cybersecurity</text>
 <rect x="48" y="220" width="300" height="34" rx="17" fill="#001a08" stroke="#00ff41" stroke-width="1.2"/>
-<circle cx="70" cy="237" r="5" fill="#00ff41"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="70" cy="260" r="5" fill="#00ff41"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
 <text x="86" y="242" fill="#00ff41" font-size="13" letter-spacing="2">ALWAYS LEARNING &amp; BUILDING</text>
 <rect x="790" y="90" width="170" height="110" rx="12" fill="#000f04" stroke="#00ff41" stroke-opacity="0.7"/>
 <circle cx="808" cy="106" r="4" fill="#ff5f56"/><circle cx="822" cy="106" r="4" fill="#ffbd2e"/><circle cx="836" cy="106" r="4" fill="#27c93f"/>
